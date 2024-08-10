@@ -1,22 +1,19 @@
 <p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Ec_Council_Logo.png">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-<img src="https://images.credly.com/size/400x400/images/4de1c3b8-f9f6-4447-8879-e4f74012f8b8/blob.png
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Implement Access Controls in Windows Machine</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 - Active Directory Domain Services
 - PowerShell
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
 
 <h2>Task</h2>
 
