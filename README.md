@@ -9,6 +9,8 @@ This lab was purchased through EC- Council. Copyright © 2021 by EC-Council.
 
 This tutorial outlines the implementation of access controls policies in a Windows Active Directory Machine.
 
+This lab can be done in Microsoft Azure.
+
 <h2>Environments and Technologies Used</h2>
 
 - Active Directory Domain Services
